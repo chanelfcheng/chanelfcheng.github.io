@@ -13,6 +13,15 @@ redirect_from:
 
 Modeling Divisive Normalization in the Central Auditory Pathway With Convolutional Neural Networks (CNNs)
 -----
+<table border="0">
+<tr>
+    <td><b style="font-size:30px">asdasd</td>
+    <td><a href="/images/divisive-norm.png"></a></td>
+</tr>
+<tr>
+    <td>asd</td>
+    <td>asd</td>
+</tr>
 ![Divisive Normalization](/images/divisive-norm.png)
 * [Project Poster](https://docs.google.com/presentation/d/1w0o61bmTnVsHmH37HHYQlGZ9oKInxQfK/edit#slide=id.p1)
 * This project was done as part of the [MIT Summer Research Program](https://bcs.mit.edu/msrp) in the [McDermott Lab](https://mcdermottlab.mit.edu/) at MIT.
