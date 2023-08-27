@@ -21,3 +21,10 @@ Cross-Organizational Continual Learning of Cyber Threat Models
 
 * This project was done as part of the [RIT Cybersecurity Visiting Student Research Program](https://www.rit.edu/cybersecurity/cybervsr) during the summer of 2022. 
 * The project poster can be found [here](https://docs.google.com/presentation/d/1loIFZeyguDzJaOEs5QAJbGM9JsZ-Yvpy/edit#slide=id.p1)
+
+Air Force Research Lab Phillips Scholar 2021
+------
+* Investigated advanced machine learning algorithms for parameter
+sensitivity analysis.
+* Demonstrated active learning surrogate models that reduced computational cost
+and introduced interactive queries for high power microwave optimization.
