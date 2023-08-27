@@ -8,7 +8,11 @@ redirect_from:
   - project.html
 ---
 
-Modeling Divisive Normalization in the Central Auditory Pathway With Convolutional Neural Networks (CNNs)
+R-STDP for Spiking Neural Networks Trained to Perform Sound Localization
+------
+[TBA]
+
+Modeling Divisive Normalization in the Central Auditory Pathway with Convolutional Neural Networks
 ------
 ![div-norm-cnn](/images/div-norm-cnn.png)
 
