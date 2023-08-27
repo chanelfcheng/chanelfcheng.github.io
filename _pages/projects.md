@@ -22,6 +22,7 @@ Modeling Divisive Normalization in the Central Auditory Pathway With Convolution
     <td>asd</td>
     <td>asd</td>
 </tr>
+</table>
 ![Divisive Normalization](/images/divisive-norm.png)
 * [Project Poster](https://docs.google.com/presentation/d/1w0o61bmTnVsHmH37HHYQlGZ9oKInxQfK/edit#slide=id.p1)
 * This project was done as part of the [MIT Summer Research Program](https://bcs.mit.edu/msrp) in the [McDermott Lab](https://mcdermottlab.mit.edu/) at MIT.
