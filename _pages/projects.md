@@ -13,21 +13,25 @@ redirect_from:
 
 Modeling Divisive Normalization in the Central Auditory Pathway With Convolutional Neural Networks (CNNs)
 -----
-<table border="0">
-<tr>
-    <td><b style="font-size:30px">asdasd</td>
-    <td><a href="/images/divisive-norm.png"></a></td>
-</tr>
-<tr>
-    <td>asd</td>
-    <td>asd</td>
-</tr>
-</table>
-![Divisive Normalization](/images/divisive-norm.png)
+<style> .column { float: left; padding: 10px; } .left { width: 40%; } .right { width: 60%; } </style>
+
+<div class=“column left” markdown=“1”>
+
 * [Project Poster](https://docs.google.com/presentation/d/1w0o61bmTnVsHmH37HHYQlGZ9oKInxQfK/edit#slide=id.p1)
 * This project was done as part of the [MIT Summer Research Program](https://bcs.mit.edu/msrp) in the [McDermott Lab](https://mcdermottlab.mit.edu/) at MIT.
 * The goal of this project was to model the divisive normalization observed in the auditory pathway with convolutional neural networks (CNNs).
 * The project was done under the mentorship of [Annesya Banerjee](https://www.linkedin.com/in/annesya-banerjee-313365167) and [Dr. Josh McDermott](http://web.mit.edu/jhm/www/).
+
+</div>
+
+<div class=“column right” markdown="1">
+
+![divisive_norm](/images/divisive-norm.png)
+
+</div>
+
+<div style=“clear:both;”></div>
+
 
 Cross-Organizational Continual Learning of Cyber Threat Models
 ======
