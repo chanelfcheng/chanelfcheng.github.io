@@ -4,8 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
-  - /projects/
-  - /projects.html
+  - /project/
+  - project.html
 ---
 
 Modeling Divisive Normalization in the Central Auditory Pathway With Convolutional Neural Networks (CNNs)
