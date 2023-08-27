@@ -18,8 +18,14 @@ Modeling Divisive Normalization in the Central Auditory Pathway With Convolution
 
 Cross-Organizational Continual Learning of Cyber Threat Models
 ------
-* 
+![continual_learning](/images/continual-learning.png)
+* This project was done at ESL global cybersecurity institute, under the mentorship of [Dr. Jay Yang](https://sites.google.com/view/s-jay-yang). 
+* The goal of this project was to develop a minimialist continual learning framework for cyber attack classification.
+* And the [poster](https://docs.google.com/presentation/d/1loIFZeyguDzJaOEs5QAJbGM9JsZ-Yvpy/edit#slide=id.p1) for the final presentation.
 
+
+Air force research 
+------
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
