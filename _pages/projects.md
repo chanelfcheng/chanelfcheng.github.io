@@ -20,7 +20,7 @@ Local divisive normalization was implemented in convolutional neural networks (C
 
 This project was done as part of the [MIT Summer Research Program in Neuroscience](https://bcs.mit.edu/msrp) in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/) during the summer of 2023.
 
-[[Project poster](https://docs.google.com/presentation/d/1w0o61bmTnVsHmH37HHYQlGZ9oKInxQfK/edit#slide=id.p1)] [[Github repository](https://github.mit.edu/annesyab/MSRP_2023/tree/normalization)]
+[Project poster](https://docs.google.com/presentation/d/1w0o61bmTnVsHmH37HHYQlGZ9oKInxQfK/edit#slide=id.p1) and [Github repository](https://github.mit.edu/annesyab/MSRP_2023/tree/normalization).
 
 Cross-Organizational Continual Learning of Cyber Threat Models
 ------
@@ -30,7 +30,7 @@ An end-to-end continual learning system was developed for multi-layer perceptron
 
 This project was done as part of the [RIT Cybersecurity Visiting Student Research Program](https://www.rit.edu/cybersecurity/cybervsr) during the summer of 2022. 
 
-[[Project poster](https://docs.google.com/presentation/d/1loIFZeyguDzJaOEs5QAJbGM9JsZ-Yvpy/edit#slide=id.p1)] [[Github repository](https://github.com/chanelfcheng/Cross-Organizational-Continual-Learning)]
+[Project poster](https://docs.google.com/presentation/d/1loIFZeyguDzJaOEs5QAJbGM9JsZ-Yvpy/edit#slide=id.p1) and [Github repository](https://github.com/chanelfcheng/Cross-Organizational-Continual-Learning).
 
 High Power Microwave Parameter Sensitivity Analysis Using Advanced Machine Learning Techniques
 ------
@@ -41,4 +41,4 @@ Active learning surrogate models were designed that could optimize high power mi
 
 This project was done as part of the [Air Force Research Laboratory Scholars Program](https://afrlscholars.usra.edu) during the summer and fall of 2021.
 
-[[Github repository](https://github.com/chanelfcheng/AFRL-HPM-Active-Learning)]
+[Github repository](https://github.com/chanelfcheng/AFRL-HPM-Active-Learning).
