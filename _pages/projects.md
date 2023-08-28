@@ -24,7 +24,7 @@ This project was done as part of the [MIT Summer Research Program in Neuroscienc
 
 Cross-Organizational Continual Learning of Cyber Threat Models
 ------
-![continual-learning-cyber](/images/continual-learning-cyber.png)
+![continual-learning-cyber](/images/continual-learning-network.png)
 
 An end-to-end continual learning system was developed for multi-layer perceptrons (MLPs) that learned from an online data stream of network traffic. This project enabled continual learning from cross-organizational (cross-network) streams of data over time and further employed active learning techniques to reduce the amount of labeled data required.
 
