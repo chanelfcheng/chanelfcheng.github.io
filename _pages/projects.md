@@ -8,7 +8,7 @@ redirect_from:
   - project.html
 ---
 
-R-STDP for Spiking Neural Networks Trained to Perform Sound Localization
+Reward-modulated Spike Timing Dependent Plasticity for Spiking Neural Networks Trained to Perform Sound Localization
 ------
 [TBA]
 
