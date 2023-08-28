@@ -35,7 +35,7 @@ This project was done as part of the [RIT Cybersecurity Visiting Student Researc
 High Power Microwave Parameter Sensitivity Analysis Using Advanced Machine Learning Techniques
 ------
 
-![active-learning-hpm](/images/active-learning-hpm.png)
+![active-learning-hpm](/images/active-learning-device.png)
 
 Active learning surrogate models were designed that could optimize high power microwave device parameters, reducing computational cost and time needed to simulate and design each device. An interactive query system was introduced for obtaining human labels for model predictions that had high uncertainty.
 
