@@ -24,7 +24,7 @@ This project was done as part of the [MIT Summer Research Program in Neuroscienc
 
 Cross-Organizational Continual Learning of Cyber Threat Models
 ------
-![continual-learning](/images/continual-learning.png)
+![continual-learning-cyber](/images/continual-learning-cyber.png)
 
 I developed an end-to-end continual learning system for multi-layer perceptrons (MLPs) that learned from an online data stream of network traffic. This work aimed to enable continual learning from cross-organizational (cross-network) streams of data over time and further employed active learning techniques to reduce the amount of labeled data required. 
 
@@ -35,7 +35,7 @@ This project was done as part of the [RIT Cybersecurity Visiting Student Researc
 High Power Microwave Parameter Sensitivity Analysis Using Advanced Machine Learning Techniques
 ------
 
-![active-learning](/images/active-learning.png)
+![active-learning-hpm](/images/active-learning-hpm.png)
 
 I designed active learning surrogate models that could optimize high power microwave device parameters, reducing computational cost and time needed to simulate and design each device. An interactive query system was introduced for obtaining human labels for model predictions that had high uncertainty.
 
