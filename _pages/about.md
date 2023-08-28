@@ -14,11 +14,11 @@ Current research
 ======
 My work broadly aims to bridge artificial intelligence and the biological brain with the ultimate goal of reconstructing brain functionality and human behavior. My current research trains neural networks to perform tasks and incorporates biologically plausible mechanisms within them to more closely match the neural properties found in the brain. 
 
-R-STDP for spiking neural networks trained to perform sound localization
+Reward spike timing dependent plasticity (R-STDP)
 ------
 [TBA]
 
-Modeling divisive normalization in the central auditory pathway with convolutional neural networks
+Divisive normalization in the central auditory pathway
 ------
 Divisive normalization has been widely proposed to contribute to efficient neural representations of auditory information, which enhances perceptual contrast and reduces statistical dependencies in auditory input. These mechanisms, while critical to many auditory tasks, are compromised in people with hearing impairments. To gain a clearer understanding of how these mechanisms work computationally and their importance for auditory task optimization, we create convolutional neural network (CNN) models of the central auditory pathway, incorporating divisive normalization at each level. The weights and span of the local normalization kernels are optimized through gradient descent, with the model trained to perform word recognition. Our results suggest that the learned neighborhoods reproduce key properties of biological normalization such as adaptation to ongoing stimuli. Furthermore, the model is shown to exhibit human-level performance with improved generalizability to out-of-distribution inputs. Our next step aims to investigate whether the suppressive effects found in biology can also be reproduced and whether these types of models can be applied in the study of hearing impaired humans.
 
