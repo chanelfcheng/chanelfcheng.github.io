@@ -8,7 +8,7 @@ redirect_from:
   - project.html
 ---
 
-Reward-modulated Spike Timing Dependent Plasticity for Spiking Neural Networks Trained to Perform Sound Localization
+Reward-Modulated Spike Timing Dependent Plasticity for Spiking Neural Networks Trained to Perform Sound Localization
 ------
 [TBA]
 
