@@ -10,7 +10,7 @@ redirect_from:
 
 Reward-Modulated Spike Timing Dependent Plasticity in Spiking Neural Networks Trained for Sound Localization
 ------
-[TBA]
+Undergraduate thesis project exploring spike timing dependent plasticity (STDP) modulated using reward signals to learn sound localization. More details to be added later.
 
 Modeling Divisive Normalization in the Central Auditory Pathway with Convolutional Neural Networks
 ------

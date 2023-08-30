@@ -16,7 +16,7 @@ My work broadly aims to bridge artificial intelligence and the biological brain 
 
 Reward-modulated spike timing dependent plasticity for learning of auditory tasks
 ------
-[TBA]
+Spike timing dependent plasticity (STDP)! More details to be added later.
 
 Divisive normalization in the central auditory pathway
 ------
