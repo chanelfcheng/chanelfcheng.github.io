@@ -14,7 +14,7 @@ Current research
 ======
 My work broadly aims to bridge artificial intelligence and the biological brain with the ultimate goal of reconstructing brain functionality and human behavior. My current research trains neural networks to perform tasks and incorporates biologically plausible mechanisms within them to more closely match the neural properties found in the brain. 
 
-Reward-modulated spike timing dependent plasticity for learning of auditory tasks
+Spike timing dependent plasticity for learning of auditory tasks
 ------
 Spike timing dependent plasticity (STDP)! More details to be added later.
 
