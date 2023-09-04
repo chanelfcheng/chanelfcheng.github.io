@@ -20,7 +20,7 @@ Local divisive normalization was implemented in convolutional neural networks (C
 
 This project was done as part of the [MIT Summer Research Program in Neuroscience](https://bcs.mit.edu/msrp) in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/) during the summer of 2023.
 
-[Project poster](https://docs.google.com/presentation/d/1w0o61bmTnVsHmH37HHYQlGZ9oKInxQfK/edit#slide=id.p1) and [Github repository](https://github.mit.edu/annesyab/MSRP_2023/tree/normalization).
+[Project poster](https://docs.google.com/presentation/d/1w0o61bmTnVsHmH37HHYQlGZ9oKInxQfK/edit#slide=id.p1) and [Github repository](https://github.com/chanelfcheng/DivNorm-AuditoryCNN).
 
 Cross-Organizational Continual Learning of Cyber Threat Models
 ------
