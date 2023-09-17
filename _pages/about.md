@@ -12,7 +12,11 @@ I am a BSc student in RIT's [Neural Adaptive Computing Laboratory](https://www.c
 
 Current research
 ======
-My work broadly aims to bridge artificial intelligence and the biological brain with the ultimate goal of reconstructing brain functionality and human behavior. My current research trains neural networks to perform tasks and incorporates biologically plausible mechanisms within them to more closely match the neural properties found in the brain. 
+My work broadly aims to bridge artificial intelligence and the biological brain
+with the ultimate goal of reconstructing brain functionality and human behavior.
+My current research trains neural networks to perform auditory tasks and
+incorporates biologically plausible mechanisms within them to more closely match
+the neural properties found in the brain. 
 
 Spike timing dependent plasticity in learning of auditory tasks
 ------
