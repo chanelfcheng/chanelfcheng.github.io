@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a BSc student in RIT's [Neural Adaptive Computing Laboratory](https://www.cs.rit.edu/~ago/nac_lab.html) working with [Dr. Alexander Ororbia II](https://www.cs.rit.edu/~ago/) to develop spiking neural network models of human-level decision making. I am concurrently working with [Dr. Josh McDermott](https://web.mit.edu/jhm/www/) as a visiting student in MIT's [Laboratory for Computational Audition](http://mcdermottlab.mit.edu/index.html). There, I am focused on developing more biologically plausible models of human hearing.
+I am a BSc student at RIT studying Computer Science. I am concurrently working with [Dr. Josh McDermott](https://web.mit.edu/jhm/www/) as a visiting student in MIT's [Laboratory for Computational Audition](http://mcdermottlab.mit.edu/index.html). There, I am focused on developing more biologically plausible models of human hearing.
 
 Current research
 ======
-My work broadly aims to bridge artificial intelligence and the biological brain
+My research broadly aims to bridge artificial intelligence and the biological brain
 with the ultimate goal of reconstructing brain functionality and human behavior.
 My current research trains neural networks to perform auditory tasks and
 incorporates biologically plausible mechanisms within them to more closely match
-the neural properties found in the brain. 
-
-Spike timing dependent plasticity in learning of auditory tasks
-------
-Spike timing dependent plasticity (STDP)! More details to be added later.
+the neural properties found in the brain.
 
 Divisive normalization in the central auditory pathway
 ------
