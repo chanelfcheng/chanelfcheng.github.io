@@ -20,22 +20,25 @@ the neural properties found in the brain.
 
 Divisive normalization in the auditory system
 ------
-Divisive normalization (DN) has been widely proposed as a canonical neural
-computation contributing to efficient representations of auditory information.
+Divisive normalization (DN) is a canonical neural computation that adjusts neuron
+responses based on the local responses of surrounding neurons and
+contributes to efficient representations of information in the auditory system.
 However, it is not known whether such mechanisms arise as a result of evolution
-to perform auditory tasks.
-In this study, we represented sounds as cochleagrams from a cochlea model and
-created convolutional neural network (CNN) models of the auditory system, with
-DN applied across time and frequency. The weights and
-span of the normalization kernels were optimized through gradient descent, with
-the models trained to perform word recognition. Network activations were then
-analyzed to probe for signatures of adaptation to ongoing stimuli and two-tone
-suppression observed in neurophysiological experiments. Results show that after
-optimization, DN applied instantaneously across time and frequency yielded
-response patterns that were most biologically consistent, suggesting a potential
-interplay between the development of normalization and optimization for natural
-auditory tasks. Additionally, generalization to out-of-distribution stimuli was
-improved providing a parallel to how humans generalize to new sounds they
-haven't learned before. Our next steps aim
-to investigate whether these types of models can be applied in the study of hearing impaired humans.
+to perform auditory tasks or as a result of optimizing for statistical
+independence in stimuli.
+To study this phenomena, we created convolutional neural network (CNN) models of
+the auditory system, with DN applied after each convolution, and
+represented sounds using cochleagrams from a cochlea model.
+Following optimization to perform an auditory task, we probed network
+activations for signatures of two nonlinear phenomena observed in
+the biological auditory system: adaptation to ongoing stimuli and two-tone
+suppression. 
+Results show that after optimization, DN applied instantaneously across time and
+frequency yielded response patterns that were most biologically consistent,
+suggesting a potential interplay between the development of normalization and
+optimization for natural auditory tasks. Additionally, generalization to
+out-of-distribution stimuli was improved, providing a parallel to how humans
+generalize to new sounds they haven't learned before. Our next steps aim
+to investigate whether these types of models can be applied in the study of
+hearing impairment.
 
